@@ -13,7 +13,14 @@ export default function Home() {
       <main>
         <Header title="Welcome to MJ_Studio Test Site!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Get ready for new Roblox games! 
+        </p>
+      </main>
+
+    <main>
+        <Header title="Just leave already" />
+        <p className="description">
+          We not ready to launch :( 
         </p>
       </main>
 
